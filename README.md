@@ -1,4 +1,3 @@
-# Project Title:
 # Anemia Prediction Using Machine Learning
 # Description:
 This project predicts anemia using machine learning. The backend processes data and builds the model, while the frontend provides an interactive interface for users to input data and receive predictions.
