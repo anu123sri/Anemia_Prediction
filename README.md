@@ -1,4 +1,11 @@
-# Anemia_Prediction
+#Project Title:
+#Anemia Prediction Using Machine Learning
+# Description:
+This project predicts anemia using machine learning. The backend processes data and builds the model, while the frontend provides an interactive interface for users to input data and receive predictions.
+# Prerequisites:
+- Python 3.7 or higher
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
+# How to Run
 Step 1: Set Up Your Project in PyCharm.
 Open PyCharm.
 Load the project folder containing both anemia.py and stream.py.
